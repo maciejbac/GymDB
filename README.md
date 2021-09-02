@@ -84,6 +84,21 @@ You can connect to the database by pressing the 'Connect' Button on the main scr
 
 <p align="center"><img src="https://i.imgur.com/2wNvhfF.png" alt="EzGym" class="center"></p>
 
+The Sun in the logo will turn green once the connection to the database is established:
+
+<p align="center"><img src="https://i.imgur.com/VOY4RYY.png" alt="EzGym" class="center"></p>
+
+### Managing the content
+
+Users, Staff, Classes and the equipment can be accessed and managed by accessing their respective sub-menus from the main menu. 
+
+You can select the desired action from the drop-down menu and press select to proceed:
+
+<p align="center"><img src="https://i.imgur.com/Q6D2CZm.png" alt="EzGym" class="center"></p>
+
+You can also edit existing users and add new ones:
+
+<p align="center"><img src="https://i.imgur.com/JmX9bzL.png" alt="EzGym" class="center"></p>
 
 
 <!-- ROADMAP -->
