@@ -13,7 +13,6 @@
     <br />
     
     <a href="https://github.com/macko939/GymDB/issues">Report Bug</a>
-    ·
     <a href="https://github.com/macko939/GymDB/issues">Request Feature</a>
   </p>
 </p>
