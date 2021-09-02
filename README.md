@@ -78,7 +78,12 @@ No installation required
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-WIP
+### Connecting to the database
+
+You can connect to the database by pressing the 'Connect' Button on the main screen. Administrative options will be grayed out until you've successfully connected to the database. 
+
+<p align="center"><img src="https://i.imgur.com/2wNvhfF.png" alt="EzGym" class="center"></p>
+
 
 
 <!-- ROADMAP -->
