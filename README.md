@@ -11,11 +11,10 @@
     <a href="https://github.com/macko939/snakeJS"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://macbac.co.uk/game.html">View Demo</a>
+    
+    <a href="https://github.com/macko939/GymDB/issues">Report Bug</a>
     ·
-    <a href="https://github.com/macko939/snakeJS/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/macko939/snakeJS/issues">Request Feature</a>
+    <a href="https://github.com/macko939/GymDB/issues">Request Feature</a>
   </p>
 </p>
 
@@ -48,22 +47,28 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+GymDB is a database management software designed for a gym. It allows the user to add/remove/modify things such as gym members, classes, staff and equipment. This software has been initially developed as a project for university, but I've been working on it to expand my C# skills.
+
 ### Built With
 
-* []() Javascript
-* []() Html
+* []() C#
+* []() .NET
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Simply go to my website to try out the game:
-https://macbac.co.uk/game.html 
+To run this project:
 
-You can also download the game.html file and run it in your browser locally.
+1. Clone the repository
+2. (optional) Replace the database file
+3. Compile GymDB.sln
+
 
 ### Prerequisites
 
-No Prerequisites
+* []() C#
+* []() .NET
+* []() MSAccess framework
 
 ### Installation
 
@@ -74,16 +79,13 @@ No installation required
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use the arrow keys to control the snake. Steer the snake towards the red fruit to grow bigger!
-
-Press 'r' to restart the game.
-
+WIP
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/macko939/snakeJS/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/macko939/GymDB/issues) for a list of proposed features (and known issues).
 
 
 <!-- CONTRIBUTING -->
