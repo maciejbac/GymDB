@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="https://github.com/macko939/snakeJS">  </a>
+  <a href="https://github.com/maciejbac/snakeJS">  </a>
 
   <h3 align="center">EzGym</h3>
    <p align="center"><img src="https://i.imgur.com/kFU8R87.png" alt="EzGym" class="center"></p>
@@ -8,12 +8,12 @@
   <p align="center">
     C# Database management system for a Gym
     <br />
-    <a href="https://github.com/macko939/snakeJS"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/maciejbac/snakeJS"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/macko939/snakeJS/issues">Report Bug</a>
+    <a href="https://github.com/maciejbac/snakeJS/issues">Report Bug</a>
     ·
-    <a href="https://github.com/macko939/snakeJS/issues">Request Feature</a>
+    <a href="https://github.com/maciejbac/snakeJS/issues">Request Feature</a>
   </p>
 </p>
 
